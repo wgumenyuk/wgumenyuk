@@ -1,16 +1,16 @@
-### Hi there 👋
+```
+ __          ___           _    _____                                        _    
+ \ \        / / |         | |  / ____|                                      | |   
+  \ \  /\  / /| | __ _  __| | | |  __ _   _ _ __ ___   ___ _ __  _   _ _   _| | __
+   \ \/  \/ / | |/ _` |/ _` | | | |_ | | | | '_ ` _ \ / _ \ '_ \| | | | | | | |/ /
+    \  /\  /  | | (_| | (_| | | |__| | |_| | | | | | |  __/ | | | |_| | |_| |   < 
+     \/  \/   |_|\__,_|\__,_|  \_____|\__,_|_| |_| |_|\___|_| |_|\__, |\__,_|_|\_\
+                                                                  __/ |           
+                                                                 |___/                   
+```
 
-<!--
-**wgumenyuk/wgumenyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hallo, ich bin Wlad! 👋
+Ich bin ein Webentwickler und arbeite hauptsächlich mit JavaScript. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Offizielle Webseite](https://wlad.gumenyuk.de)
+- [NPM](https://www.npmjs.com/~wgumenyuk)
